@@ -1,0 +1,5 @@
+export const ADDITION = 'ADDITION'
+export const SUBSTRACTION = 'SUBSTRACTION'
+export const MULTIPLY = 'MULTIPLY'
+export const DIVIDE = 'DIVIDE'
+export const CLEAR = 'CLEAR'
